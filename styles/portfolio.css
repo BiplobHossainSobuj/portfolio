@@ -1,3 +1,21 @@
 body{
     font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+}
+
+.navbar{
+    display: flex;
+    padding: 20px;
+}
+.navbar ul{
+    display: flex;
+    margin-left: 800px;
+    align-items: center;
+}
+.navbar li{
+    list-style: none;
+    margin-left: 60px;
+}
+.header{
+    background-color: #FFF8F3;
 }
