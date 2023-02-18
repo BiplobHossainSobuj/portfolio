@@ -3,3 +3,14 @@ body{
     margin: 0px;
     background-color: #FFF8F3;
 }
+
+.intro{
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.about{
+    display: flex;
+    justify-content: space-between;
+}
