@@ -16,6 +16,10 @@ body{
     list-style: none;
     margin-left: 60px;
     font-weight: 600;
+    
+}
+.navbar li a{
+    text-decoration: none;
 }
 .header{
     background-color: #FFF8F3;
@@ -33,3 +37,4 @@ body{
     margin-bottom: 100px;
     margin-left: 10px;
 }
+
