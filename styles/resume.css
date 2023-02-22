@@ -1,0 +1,30 @@
+.resume{
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+}
+.experience{
+    margin-left: 5%;
+
+}
+#summery{
+    margin-left: 33%;
+    margin-top: 5%;
+    
+}
+body{
+    background-color: #FFF8F3;
+    font-family: 'Open Sans', sans-serif;
+}
+.btn{
+    margin-left: 35%;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    
+}

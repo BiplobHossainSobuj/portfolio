@@ -6,6 +6,7 @@ body{
 .navbar{
     display: flex;
     padding: 50px;
+    
 }
 .navbar ul{
     display: flex;
@@ -20,6 +21,9 @@ body{
 }
 .navbar li a{
     text-decoration: none;
+}
+.navbar li a:hover{
+    color: #FD6E0A;
 }
 .header{
     background-color: #FFF8F3;
@@ -38,3 +42,13 @@ body{
     margin-left: 10px;
 }
 
+.btn{
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+}
